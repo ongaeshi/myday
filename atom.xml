@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>day</title>
+ <link href="https://ongaeshi.github.io/blog/atom.xml" rel="self"/>
+ <link href="https://ongaeshi.github.io/blog/"/>
+ <updated>2022-07-19T01:25:02+09:00</updated>
+ <id>https://ongaeshi.github.io</id>
+ <author>
+   <name>yourname</name>
+   <email>youname@example.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello, World!</title>
+   <link href="https://ongaeshi.github.io/20220716"/>
+   <updated>2022-07-16T00:00:00+09:00</updated>
+   <id>https://ongaeshi.github.io/blog/day</id>
+   <content type="html">&lt;p&gt;Day is a simple blog where you can only write one article a day.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Image</title>
+   <link href="https://ongaeshi.github.io/20220715"/>
+   <updated>2022-07-15T00:00:00+09:00</updated>
+   <id>https://ongaeshi.github.io/blog/day</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/6aa6ecbf28b6af9f5684487bc42f2620.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
